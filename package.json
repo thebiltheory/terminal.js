@@ -1,0 +1,26 @@
+{
+  "name": "terminal.js",
+  "version": "1.0.0",
+  "description": "An extensible pseudo-terminal for your website (or whatever you do in the browser)",
+  "main": "terminal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebiltheory/terminal.js.git"
+  },
+  "keywords": [
+    "pseudo",
+    "terminal",
+    "shell",
+    "terminal",
+    "bash"
+  ],
+  "author": "Martin Splitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebiltheory/terminal.js/issues"
+  },
+  "homepage": "https://github.com/thebiltheory/terminal.js#readme"
+}
