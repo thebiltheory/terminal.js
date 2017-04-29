@@ -17,6 +17,7 @@
     "terminal",
     "bash"
   ],
+  "main": "./terminal.js",
   "author": "Martin Splitt",
   "license": "MIT",
   "bugs": {
