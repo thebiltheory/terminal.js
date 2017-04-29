@@ -1,5 +1,5 @@
 {
-  "name": "terminal.js",
+  "name": "fake-terminal.js",
   "version": "1.0.0",
   "description": "An extensible pseudo-terminal for your website (or whatever you do in the browser)",
   "main": "terminal.js",
